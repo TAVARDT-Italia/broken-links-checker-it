@@ -5,7 +5,7 @@
 
 Verifica automatica dei collegamenti ipertestuali e diagnosi delle risposte HTTP difettose.
 
-Sviluppato e gestito dalla divisione SEO e infrastrutture web di **TAVARDT Italia**.
+Sviluppato e gestito dalla divisione SEO e infrastrutture web di **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python broken_links_scanner.py https://azienda.it -json
 Esegui un controllo approfondito direttamente online:
 
 * **Controllo Link Interrotti Ufficiale**
-* **[Portale Istituzionale TAVARDT Italia](https://ag.tavardt.com/it/)**
+* **[Portale Istituzionale TAVARDT](https://ag.tavardt.com/it/)**
 
 ***
 
 ## Supporto Tecnico e Consulenza
 
-Per ottimizzare la struttura dei collegamenti secondo Linee Guida di Accessibilita Web AgID e Standard W3C, contatta **TAVARDT Italia**.
+Per ottimizzare la struttura dei collegamenti secondo Linee Guida di Accessibilita Web AgID e Standard W3C, contatta **TAVARDT**.
 
 ***
 
