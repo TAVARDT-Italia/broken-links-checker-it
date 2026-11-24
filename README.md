@@ -49,3 +49,7 @@ Esegui un controllo approfondito direttamente online:
 ## Supporto Tecnico e Consulenza
 
 Per ottimizzare la struttura dei collegamenti secondo Linee Guida di Accessibilita Web AgID e Standard W3C, contatta **TAVARDT Italia**.
+
+***
+
+© 2026 TAVARDT. Tutti i diritti riservati.
