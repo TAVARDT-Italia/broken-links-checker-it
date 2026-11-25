@@ -2,6 +2,7 @@
 
 [![Controllo Link Interrotti](https://img.shields.io/badge/TAVARDT-Broken%20Links-5b3cf5.svg)](https://tools.tavardt.com/it/controllo-link-interrotti/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Verifica automatica dei collegamenti ipertestuali e diagnosi delle risposte HTTP difettose.
 
@@ -57,6 +58,11 @@ Per ottimizzare la struttura dei collegamenti secondo Linee Guida di Accessibili
 * **Portale Aziendale:** https://ag.tavardt.com/it/
 * **Suite di Diagnostica:** https://tools.tavardt.com/it/
 * **Contatto Tecnico:** https://ag.tavardt.com/it/contatto/
+
+***
+
+### Licenza
+Distribuito sotto Licenza MIT. Consultare il file [LICENSE](LICENSE) per maggiori informazioni.
 
 ***
 
